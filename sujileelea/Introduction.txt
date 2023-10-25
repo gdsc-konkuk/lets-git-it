@@ -1,4 +1,4 @@
 I'm sujileelea
 
 jijon CLI
-jijon vim
+jijon vi
