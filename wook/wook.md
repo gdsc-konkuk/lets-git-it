@@ -79,7 +79,7 @@
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 -------
-### [2023.06 ~] ReFit (Java SpringBoot Backend & healthcare app)
+### [2023.06 ~] ReFit (Java Spri1234ngBoot Backend & healthcare app)
 
 -------
 
